@@ -5,8 +5,8 @@ logo: /documentation/static/img/avatar.png
 github: https://github.com/adyyoung
 about: Freelance developer
 
-baseurl: ""
-url: ""
+baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
+url: "https://codeasashu.github.io/hcz-jekyll-blog"
 
 allowsearch: true
 
