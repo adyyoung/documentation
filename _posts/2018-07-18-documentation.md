@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Example content for posts  
-categories: others
+title: Add a member to a campaign 
+categories: sampling
 ---
 
 # Add a member to a campaign
